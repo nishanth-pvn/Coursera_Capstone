@@ -13,7 +13,7 @@ Required data can be gathered from:
 
 - For geolocation of neighborhoods _Python geocoder_ will be used. 
 
-  > Geocoder retruns latitude and longitude information for every neighborhood center, then it will be used as main Foursquare input.
+  > Geocoder returns latitude and longitude information for every neighborhood center, then it will be used as main Foursquare API input.
   
 
 - In order to obtain top attractions/recreational facilities in each locality we will use [FOURSQUARE](https://foursquare.com/) API.
